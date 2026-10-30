@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "最可爱的小烧瓶",
+  "subtitle": "冬日限定 · WINTER",
+  "technique": "人间小暖炉",
+  "tagline": "雪落在肩头",
+  "edition": "No.010",
+  "collection": "表情包典藏 · 雪夜",
+  "description": "以雪夜照片为人像与构图，冷暖对比的多层镭射收藏卡。",
+  "parameters": {
+    "subjectScale": 1.0,
+    "subjectDepth": 0.22,
+    "backgroundDepth": -0.25,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.0,
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "assets": {
+    "subject": "./assets/subject.png",
+    "background": "./assets/background.png",
+    "text": "./assets/text.png",
+    "lineart": "./assets/lineart.png",
+    "model": "./assets/card.glb"
+  }
+}

@@ -37,5 +37,18 @@
     "theme": "暗场聚光",
     "cover": "covers/no-009.jpg",
     "href": "cards/no-009/index.html"
+  },
+  {
+    "slug": "no-010",
+    "title": "最可爱的小烧瓶",
+    "title_en": "LITTLE FLASK",
+    "edition": "No.010",
+    "subtitle": "冬日限定 · WINTER",
+    "rarity": "限定",
+    "character": "小烧瓶",
+    "style": "人像 · 雪夜",
+    "theme": "冬日",
+    "cover": "covers/no-010.jpg",
+    "href": "cards/no-010/index.html"
   }
 ]
