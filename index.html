@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#ffffff">
+  <title>全息典藏 · HOLO ATELIER</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 32 32%27%3E%3Crect width=%2732%27 height=%2732%27 fill=%27%23111%27/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="./gallery.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="wordmark" href="./">HOLO ATELIER</a>
+    <span class="kind" id="kind">DIGITAL COLLECTIBLES · 数字藏品</span>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h1 id="brand-cn">全息典藏</h1>
+      <p class="tagline" id="tagline">光影随手动，卡面有深浅。</p>
+    </section>
+
+    <section class="gallery" aria-labelledby="gallery-title">
+      <div class="gallery-head">
+        <div>
+          <h2 id="gallery-title">卡片展厅</h2>
+          <p class="note" id="gallery-note">按人物、风格与主题自动归档，点击任意卡片进入独立展示页。</p>
+        </div>
+        <label class="search">
+          <span aria-hidden="true">⌕</span>
+          <input id="search" type="search" placeholder="搜索标题、编号或标签" autocomplete="off">
+        </label>
+      </div>
+
+      <div class="bar">
+        <p class="stats" id="stats">正在载入…</p>
+        <div class="chips" id="chips" role="group" aria-label="按分类筛选"></div>
+      </div>
+
+      <div class="grid" id="grid"></div>
+      <p class="empty" id="empty" hidden>没有找到符合条件的卡片。</p>
+    </section>
+  </main>
+
+  <footer>
+    <span id="footer">DESIGNED TO BE SEEN IN MOTION</span>
+  </footer>
+
+  <script type="module" src="./gallery.js"></script>
+</body>
+</html>
