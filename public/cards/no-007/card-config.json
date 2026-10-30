@@ -1,0 +1,32 @@
+{
+  "mode": "holographic",
+  "title": "霓虹猎手",
+  "subtitle": "传说 LEGEND",
+  "technique": "霓虹裂爪",
+  "tagline": "雨夜都市 · 机械猎杀",
+  "edition": "No.007",
+  "collection": "赛博朋克机械猫 · 虹霓都市",
+  "description": "全彩浮世绘与水墨动漫勾勒的多层镭射收藏卡，传说稀有度。",
+  "parameters": {
+    "subjectScale": 1.15,
+    "subjectDepth": 0.4,
+    "backgroundDepth": -0.25,
+    "foil": 1.0,
+    "particles": 1.0,
+    "glow": 0.85
+  },
+  "safeArea": {
+    "scale": 1.0,
+    "offset": [
+      0,
+      0
+    ]
+  },
+  "assets": {
+    "subject": "./assets/subject.png",
+    "background": "./assets/background.png",
+    "text": "./assets/text.png",
+    "lineart": "./assets/lineart.png",
+    "model": "./assets/card.glb"
+  }
+}

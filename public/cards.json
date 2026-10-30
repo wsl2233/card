@@ -1,0 +1,41 @@
+[
+  {
+    "slug": "no-007",
+    "title": "霓虹猎手",
+    "title_en": "NEON HUNTER",
+    "edition": "No.007",
+    "subtitle": "传说 LEGEND",
+    "rarity": "传说",
+    "character": "机械猫",
+    "style": "赛博朋克 · 浮世绘",
+    "theme": "霓虹雨夜",
+    "cover": "covers/no-007.jpg",
+    "href": "cards/no-007/index.html"
+  },
+  {
+    "slug": "no-008",
+    "title": "DORO",
+    "title_en": "STARGAZER",
+    "edition": "No.008",
+    "subtitle": "星空漫游 · STARGAZER",
+    "rarity": "限定",
+    "character": "多萝",
+    "style": "表情包 · 星空",
+    "theme": "银河漫游",
+    "cover": "covers/no-008.jpg",
+    "href": "cards/no-008/index.html"
+  },
+  {
+    "slug": "no-009",
+    "title": "科皆",
+    "title_en": "KEJIE",
+    "edition": "No.009",
+    "subtitle": "传奇 · LEGEND",
+    "rarity": "传说",
+    "character": "科皆",
+    "style": "人像 · 黑色幽默",
+    "theme": "暗场聚光",
+    "cover": "covers/no-009.jpg",
+    "href": "cards/no-009/index.html"
+  }
+]
