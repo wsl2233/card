@@ -24,7 +24,7 @@
   },
   "assets": {
     "subject": "./assets/subject.png",
-    "background": "./assets/background.png",
+    "background": "./assets/background.jpg",
     "text": "./assets/text.png",
     "lineart": "./assets/lineart.png",
     "model": "./assets/card.glb"
